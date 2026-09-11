@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Tierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjones-01&show_icons=true&theme=panda)
-![Tierra's GitHub stats](https://github-stats-extended.vercel.app/api?username=tjones-01&theme=omni&show_icons=true)
+![Tierra's GitHub stats](https://github-stats-extended.vercel.app/api?username=tjones-01&theme=neon&show_icons=true)
 
 
 
