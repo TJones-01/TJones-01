@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Tierra's GitHub stats](https://github-stats-extended.vercel.app/api?username=tjones-01&theme=neon&show_icons=true)
 
 
